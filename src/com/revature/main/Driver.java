@@ -17,6 +17,10 @@ public class Driver {
 
         p1.speak();
 
+        Person P2 = new Person("Jane","Doe", 35);
+
+        P2.speak();
+
         System.out.println("End of main() method.");
     }
 
